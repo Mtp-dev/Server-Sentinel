@@ -1,0 +1,6 @@
+
+### 📄 `requirements.txt`
+```txt
+discord.py
+requests
+mysql-connector-python
