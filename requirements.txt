@@ -1,4 +1,3 @@
-### 📄 `requirements.txt`
 discord.py
 requests
 mysql-connector-python
